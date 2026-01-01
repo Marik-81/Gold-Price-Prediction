@@ -7,7 +7,7 @@
 
 ## 📋 Project Overview
 This project predicts the daily price of **24K Gold (per Gram)** in Saudi Arabia (KSA) for the year **2026**.
-[📄 Read Full Documentation](FD-OS (Gold_Portfolio.v2).pdf)
+[📄 Read Full Documentation](FD-OS(Gold_Portfolio.v2).pdf)
 Gold prices are inherently non-stationary and exhibit "volatility clustering" (periods of high risk followed by calm). Standard models like Linear Regression or simple ARIMA fail to capture this changing risk. This project solves that problem by implementing a **Hybrid ARIMA-GARCH** model:
 * **ARIMA:** Models the trend (mean).
 * **GARCH:** Models the volatility (variance/risk).
