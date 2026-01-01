@@ -1,0 +1,11 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
+
+# --- Data to Ignore ---
+# This ignores all CSV files so your extracted data is safe
+*.csv
+gold_sa_historical_data_2020_onwards.csv
