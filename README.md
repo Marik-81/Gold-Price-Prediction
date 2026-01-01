@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+[📄 Read Full Documentation](FD-OS(Gold_Portfolio.v2).pdf)
 ## 📋 Project Overview
 This project predicts the daily price of **24K Gold (per Gram)** in Saudi Arabia (KSA) for the year **2026**.
 
